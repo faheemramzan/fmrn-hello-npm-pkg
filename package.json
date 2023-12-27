@@ -1,0 +1,22 @@
+{
+  "name": "fmrn-hello-npm-pkg",
+  "version": "1.1.1",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheemramzan/fmrn-hello-npm-pkg.git"
+  },
+  "keywords": [
+    "hello_fmrn"
+  ],
+  "author": "fmrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheemramzan/fmrn-hello-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/faheemramzan/fmrn-hello-npm-pkg#readme"
+}
